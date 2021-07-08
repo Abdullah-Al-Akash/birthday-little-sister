@@ -1,5 +1,4 @@
 # birthday-little-sister
-Live Site: https://abdullah-al-akash.github.io/birthday-little-sister/
 
 <h1>Birthday Wish </h1>
 
